@@ -1,8 +1,8 @@
 <script>
-  import HelloWorld from './components/HelloWorld.vue';
+  import AppTitle from './components/AppTitle.vue';
   export default {
       components: {
-        HelloWorld
+        AppTitle
       },
       data() {
         return {
@@ -14,7 +14,7 @@
 
 <template>
 
-  <HelloWorld/>
+  <AppTitle/>
 
 </template>
 

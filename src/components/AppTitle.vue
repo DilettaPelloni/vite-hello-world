@@ -2,18 +2,18 @@
     export default {
         data() {
             return {
-                message: 'Hello World!'
+                title: 'La mia prima app con Vite!'
             }
         }
     }
 </script>
 
 <template>
-  <h1> {{ message }} </h1>
+    <h1> {{ title }} </h1>
 </template>
 
 <style scoped>
     h1 {
-        color: white;
+        color: blueviolet;
     }
 </style>
