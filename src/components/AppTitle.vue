@@ -13,7 +13,4 @@
 </template>
 
 <style scoped>
-    h1 {
-        color: blueviolet;
-    }
 </style>
